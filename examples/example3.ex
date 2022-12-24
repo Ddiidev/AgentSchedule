@@ -1,4 +1,4 @@
-include async_await.e as th
+include ..\async_await.e as th
 with trace
 
 procedure main()

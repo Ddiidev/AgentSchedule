@@ -1,6 +1,6 @@
 include std\os.e
 include std\task.e
-include async_await.e as th
+include ..\async_await.e as th
 include std\convert.e
 
 global integer infinite_quit = 0
